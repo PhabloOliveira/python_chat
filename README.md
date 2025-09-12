@@ -14,3 +14,8 @@ chat/
 |--requirements.txt # para instalar as dependências
 |--run.py # para rodar a aplicação
 ```
+
+Instale as dependências da aplicação:
+```
+pip install -r requirements.txt
+```
