@@ -8,6 +8,7 @@ chat/
 |   |--manager.py # Gerencia conexões webSockets
 |   |--models.py #Estruturar os dados / Pydantic (modelo de dados)
 |   |--database.py # conexão com MongoDB
+|   |--config.py #dados de configurações
 |   |--routes/
 |   |   |--http.py # rotas HTTP (Ex: listar salas, listar usuarios)
 |   |   |--websocket.py # endpoint websocket
