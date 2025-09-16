@@ -18,3 +18,4 @@ async def list_salas():
 @router.get("/historico/{sala_id}")
 async def history(sala_id: str):
     return {"message": "Aqui teremos o histórico"}
+
